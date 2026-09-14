@@ -3,4 +3,4 @@ uvicorn
 pydantic
 joblib
 pandas
-scikit-learngit
+scikit-learn==1.5.2
